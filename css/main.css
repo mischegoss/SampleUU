@@ -1,0 +1,16 @@
+
+
+#main-head {
+    color: pink;
+}
+
+.card {
+    border: 10px solid green;
+    margin: 0 auto; /*This is a nifty way to center */
+
+    width: 70vw; /* This is viewer width. It is a nice, neat, responsive way to set width */
+
+}
+
+/*
+We also talked about rem and em. Read more about that here: https://css-tricks.com/confused-rem-em/ */
